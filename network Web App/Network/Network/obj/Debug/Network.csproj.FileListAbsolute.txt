@@ -1,0 +1,219 @@
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Network.dll.config
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Network.pdb
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csc.exe
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csi.exe
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csi.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\csi.rsp
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.AppContext.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Console.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.IO.Compression.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Net.Http.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Net.Sockets.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.ValueTuple.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\vbc.exe
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\vbc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\vbc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\VBCSCompiler.exe
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Antlr3.Runtime.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Newtonsoft.Json.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\System.Web.Optimization.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\WebGrease.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\System.Web.Optimization.xml
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Newtonsoft.Json.xml
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Antlr3.Runtime.pdb
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\obj\Debug\Network.csproj.CopyComplete
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\obj\Debug\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\Network\Network\obj\Debug\Network.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Network.dll.config
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Network.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csc.exe
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csi.exe
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csi.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\csi.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.AppContext.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Console.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.IO.Compression.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Net.Http.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Net.Sockets.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.ValueTuple.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\vbc.exe
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\vbc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\vbc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\VBCSCompiler.exe
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Antlr3.Runtime.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Newtonsoft.Json.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\System.Web.Optimization.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\WebGrease.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\System.Web.Optimization.xml
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Newtonsoft.Json.xml
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Antlr3.Runtime.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\obj\Debug\Network.csproj.CopyComplete
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\obj\Debug\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\network22\Network\Network\obj\Debug\Network.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Network.dll.config
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Network.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csc.exe
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csi.exe
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csi.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\csi.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.AppContext.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Console.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.IO.Compression.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Net.Http.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Net.Sockets.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.ValueTuple.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\vbc.exe
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\vbc.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\vbc.rsp
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\VBCSCompiler.exe
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Antlr3.Runtime.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Newtonsoft.Json.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\System.Web.Optimization.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\WebGrease.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\System.Web.Optimization.xml
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Newtonsoft.Json.xml
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Antlr3.Runtime.pdb
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\obj\Debug\Network.csproj.CopyComplete
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\obj\Debug\Network.dll
+C:\Users\eoene\OneDrive\Masaüstü\network Web App\Network\Network\obj\Debug\Network.pdb
